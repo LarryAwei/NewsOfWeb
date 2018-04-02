@@ -1,0 +1,2 @@
+# NewsOfWeb
+graduation project
